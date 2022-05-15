@@ -1,0 +1,69 @@
+
+.services{
+    padding: 110px 0 105px;
+    &__title{
+        @include text(normal,700,36px,53px,#323232);
+        margin-bottom: 50px;
+    }
+
+    &__subtitle{
+        @include text(normal,400,16px,25px,#999999);
+        margin: 0 auto 70px;
+        width: 65%;
+    }
+    &__col-4{
+        display: flex;
+        width: 33.3%;
+       
+    }
+    &__circle{
+        width: 110px;
+        height: 110px;
+        border: 1px solid #E0E0E0;
+        border-radius: 50%;
+        margin-right: 17px;
+        position: relative;
+        &::before{
+            content: "";
+            position: absolute;
+            width: 90px;
+            height: 90px;
+            border-radius: 50%;
+            border: 1px solid #4985FF;
+            left: 50%;
+            top: 50%;
+            transform: var(--transform);
+        }
+
+        &::after{
+            content: url(../images/services/project.svg);
+            position: absolute;
+            width: 40px;
+            height: 40px;
+       
+            left: 50%;
+            top: 50%;
+            transform: var(--transform);
+        }
+    }
+
+    &__row{
+        display: flex;
+        
+    }
+
+    &__text{
+        margin-top: 46px;
+    }
+    &__text-title{
+        @include text(normal,600,18px,22px,#000000);
+        text-align: justify;
+        margin-bottom: 12px;
+    }
+    &__text-subtitle{
+        @include text(normal,400,14px,22px,#999999);
+        text-align: justify;
+        margin-bottom: 55px;
+    }
+
+}

@@ -1,0 +1,121 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\vagrant"
+		},
+		{
+			"path": "..\\myfirstproject\\myfirstproject"
+		},
+		{
+			"path": "..\\htmltags_1\\htmltags_1"
+		},
+		{
+			"path": "..\\htmltags_2\\htmltags_2"
+		},
+		{
+			"path": "..\\htmltags_3\\htmltags_3"
+		},
+		{
+			"path": "..\\css_1\\css_1"
+		},
+		{
+			"path": "..\\css_2\\css_2"
+		},
+		{
+			"path": "..\\css_3\\css_3"
+		},
+		{
+			"path": "..\\css_5\\css_5"
+		},
+		{
+			"path": "..\\css_6\\css_6"
+		},
+		{
+			"path": "..\\css_7\\css_7"
+		},
+		{
+			"path": "..\\css_8\\css_8"
+		},
+		{
+			"path": "..\\css_10\\css_10"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\hellosass"
+		},
+		{
+			"path": "..\\hellosass2"
+		},
+		{
+			"path": "..\\addfonts"
+		},
+		{
+			"path": "..\\bem"
+		},
+		{
+			"path": "..\\flex"
+		},
+		{
+			"path": "..\\adapt"
+		},
+		{
+			"path": "..\\js_start"
+		},
+		{
+			"path": "..\\aod"
+		},
+		{
+			"path": "..\\js_start1"
+		},
+		{
+			"path": "..\\modal"
+		},
+		{
+			"path": "..\\slider"
+		},
+		{
+			"path": "..\\tabs"
+		},
+		{
+			"path": "..\\quiz"
+		},
+		{
+			"path": "..\\newattemp"
+		},
+		{
+			"path": "..\\les2"
+		},
+		{
+			"path": "..\\les3"
+		},
+		{
+			"path": "..\\les4"
+		},
+		{
+			"path": "..\\les5"
+		},
+		{
+			"path": "..\\les5hw"
+		},
+		{
+			"path": "..\\les7"
+		},
+		{
+			"path": "..\\les8"
+		},
+		{
+			"path": "..\\les8_1"
+		},
+		{
+			"path": "..\\les8_2"
+		},
+		{
+			"path": "..\\hellosass_les10"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css"
+	}
+}

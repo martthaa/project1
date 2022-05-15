@@ -1,0 +1,8 @@
+@mixin text($ft,$fw,$fs,$lh,$c) {
+    font-style: $ft;
+    font-weight: $fw;
+    font-size: $fs;
+    line-height: $lh;
+    color: $c;
+    text-align: center;
+}
